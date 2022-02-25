@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short speech prepared to be spoken by a worthy member in Parliament concerning the present state of the nation.</title>
+            <author>Seton, William, Sir, d. 1744.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59285</idno>
+            <idno type="STC">Wing S2651</idno>
+            <idno type="STC">ESTC R33869</idno>
+            <idno type="EEBO-CITATION">13586012</idno>
+            <idno type="OCLC">ocm 13586012</idno>
+            <idno type="VID">100538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1048:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short speech prepared to be spoken by a worthy member in Parliament concerning the present state of the nation.</title>
+                  <author>Seton, William, Sir, d. 1744.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Seton by Wing and NUC pre-1956 imprints.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100538:1"/>
+            <pb facs="tcp:100538:1" rendition="simple:additions"/>
+            <p>A <hi>Short Speech</hi> Prepared to be Spoken, By a Worthy MEMBER IN Parliament, Concerning the <hi>PRESENT STATE</hi> OF THE NATION.</p>
+            <q>
+               <l>— Quare tam perdita <hi>Roma?</hi>
+               </l>
+               <l>Ipſa ſui Merces erat, &amp; ſine Vindice Praeda.</l>
+               <bibl>
+                  <hi>Petron.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="2" facs="tcp:100538:2"/>
+            <head>A SPEECH prepared (it ſeems) for the enſuing Seſſion, by a Member of Par<g ref="char:EOLhyphen"/>liament, which falling from him by Ac<g ref="char:EOLhyphen"/>cident, is Publiſh'd, leſt he ſhould have no other Copy.</head>
+            <p>THE Buſineſs of this Day is the greateſt, and of the greateſt Conſequence that e<g ref="char:EOLhyphen"/>ver came before the Repreſentatives of this Na<g ref="char:EOLhyphen"/>tion: For as in all paſt Ages, the People of this Country have liv'd in Liberty at Home, and Re<g ref="char:EOLhyphen"/>putation Abroad; ſo upon the Reſolutions of this Day, or at leaſt of this Seſſion of Parlia<g ref="char:EOLhyphen"/>ment, to which thoſe of this Day may give a conſiderable ſtroke, does depend the continua<g ref="char:EOLhyphen"/>tion of that Liberty and Reputation which we have always had, of being bold Aſſerters of our Rights and Freedom, together with the Fate and Deſtiny of our Poſterity.</p>
+            <p>Our Great Hiſtorian, has made the Noble Spirit of our Anceſtors Illuſtrious to this and all future Ages: All Nations read, and all Porteri<g ref="char:EOLhyphen"/>ty will know and praiſe their Actions: But if we ſhall now ſo far degenerate, as not to aſſert our Freedom at Home, by breaking a ſtanding Army in time of Peace, which if kept up is a Treaſonable Alteration of our Government, &amp; makes it Tyrannical: If we do not aſſert our Rights as a Free People, by ſuch juſt and true Repreſentations of them to our Neighbour-Na<g ref="char:EOLhyphen"/>tion,
+<pb n="3" facs="tcp:100538:2"/>as may convince them, we have no De<g ref="char:EOLhyphen"/>ſigns, but ſuch as we have juſt Right to proſe<g ref="char:EOLhyphen"/>cute, and are for the Common Good of both: If we do not diſcover the black Deſigns of a few ill Men, who endeavour for ſiniſter Ends to ſet the Nation together by the Ears: I ſay, if we do not take effectual ways to accompliſh theſe things, and eſtabliſh a laſting Peace, both at Home and Abroad, I ſhall eaſily comprehend the Hiſtory of our Nation in this and all future Ages in two Words: If you ask them, I anſwer, <hi>Slavery</hi> and <hi>Oblivion.</hi>
+            </p>
+            <p>But that I may give ſome Advice in the Af<g ref="char:EOLhyphen"/>fair, and propoſe Remedies ſuteable to our Con<g ref="char:EOLhyphen"/>dition, and the multiplicity of Evils that preſs and threaten us on all hands; 'twill be neceſ<g ref="char:EOLhyphen"/>ſary to deduce them from their original Cauſes, and to give a juſt and true Account of <hi>the pre<g ref="char:EOLhyphen"/>ſent State of the Nation.</hi>
+            </p>
+            <p>When that Great and Memorable Change happen'd in this Iſland, by which the Kingdom of <hi>Scotland</hi> and <hi>England</hi> came to be ſo far united as to have but one King, both Nations promis'd to themſelves great Advantages: And tho' the Endeavours that were then, and have been ſince us'd for a nearer Union, prov'd unſucceſsful; yet this Advantage ſtill remain'd, that Peace betwixt the two Nations was preſerv'd, and a King com<g ref="char:EOLhyphen"/>mon to both, as a common Father, kept them from encroaching upon the Rights of each other; and having no regard to the Partialities, or Ani<g ref="char:EOLhyphen"/>moſities of either, did equal Juſtice to both.</p>
+            <pb n="4" facs="tcp:100538:3"/>
+            <p>This ſtate of things has laſted to our time. But now we are told, that his Majeſty is forc'd to do diverſe things prejudicial to the Intereſt of <hi>Scotland,</hi> on account of Repreſentations and Addreſſes made to him by an <hi>Engliſh</hi> Parlia<g ref="char:EOLhyphen"/>ment, with whom (as repreſenting a more powerful Nation) he is oblig'd to comply: as if there were no Rule of Juſtice by which he ſhould judge of Matters contraverted between us: As if in a Suit between a Rich and a Poor Man, the Judge were not to conſider the Merits of the Cauſe, but always give Judgement in fa<g ref="char:EOLhyphen"/>vour of the Rich Man.</p>
+            <p>And tho' in former Reigns ever ſince the firſt Union, under one Head, no ſuch thing was e<g ref="char:EOLhyphen"/>ver done, or ſo much as mention'd; tho' no King ever ſuffered the leaſt Breach to be made upon the Independency of <hi>Scotland,</hi> as appears more evidently in K. <hi>Charles</hi> 2d's Removing the <hi>Engliſh</hi> Gariſons out of this Country in the Year 1660; yet by our remotneſs from the Seat of the Government, and Influence of the Prince, (as a Farm that has none but Servants to look after it) this Nation became quickly of little or no value; and <hi>England</hi> by means of Husban<g ref="char:EOLhyphen"/>dry and Trade, as well as by being the Seat of the Empire, riſing as faſt as <hi>Scotland</hi> ſunk by the want of all theſe, the Diſproportion in Riches ſell from 1 to 5, as it was about the Year 1600, to that of 1 to 30, as it is at this day.</p>
+            <p>But the People of this Nation, tho' they know the removal of their Kings to be the Original
+<pb n="5" facs="tcp:100538:3"/>Cauſe of this Alteration; yet knowing alſo that by the ſame means they had obtain'd a perpe<g ref="char:EOLhyphen"/>tual Peace with <hi>England;</hi> and being conſcious to themſelves, that whilſt their Freedom and Priviledges were preſerved entire by the Prince, it was their own fault if the Policy of the Coun<g ref="char:EOLhyphen"/>try were not regarded, if Husbandry and Trade were not advanced: On theſe Conſiderations (I ſay) they have always continued peaceable in that Union, without the leaſt thoughts of ever ſeparating or dividing from their Neighbours, or diſturbing the Peace of this Iſland any more.</p>
+            <p>And tho' in the ſtate of Separation they were much more Conſiderable, Rich, and Powerful, than ever they have been ſince: Tho' <hi>France,</hi> (our Natural Ally in caſe of a Separation with <hi>England</hi>) has of late Years become not only a Ballance for <hi>England,</hi> but a Ballance for almoſt all the reſt of <hi>Europe,</hi> in conjunction with <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> Tho' our Colony in <hi>Ireland</hi> were become formidable to the <hi>Engliſh</hi> power there (who beſides are always ſure to have the <hi>Iriſh</hi> for an Enemy) Yet all theſe Diſ-advantages on the one hand, and Hopes on the other, could never ſhake that Allegiance which we owed to our Prince, nor remove us from that Union with our Neigh<g ref="char:EOLhyphen"/>bours, by which we had ſuffered ſo much.</p>
+            <p>But having within theſe five or ſix Years be<g ref="char:EOLhyphen"/>gun to be ſenſible, that the extreme Poverty of our People, which ſtill encreaſed, did proceed from nothing but the want of Foreign Trade, which gives Life to all Manufactures, and en<g ref="char:EOLhyphen"/>creaſes
+<pb n="6" facs="tcp:100538:4"/>the value of Land, by giving Encourage<g ref="char:EOLhyphen"/>ment to Improve it; We applied our ſelves to the ſetting up ſeveral Manufactories, and ſend<g ref="char:EOLhyphen"/>ing our Ships to Trade in Places where former<g ref="char:EOLhyphen"/>ly they were not imploied: Yet knowing that all this would prove but a mean and peddling kind of Commerce, unleſs we traded to the <hi>In<g ref="char:EOLhyphen"/>dies,</hi> it was very natural to us, who abounded more in People than any thing elſe, to think (after the Example of all our Neighbours) of having a Colony there alſo: And accordingly an <hi>Indian</hi>-Company was eſtabliſhed by Act of Parliament.</p>
+            <p>When on a ſudden, as if by that Act we had broke the Peace with our Neighbours, we begin to be complain'd of, and cried out againſt in <hi>England;</hi> It was ſaid, That the Priviledges and Powers of the Company were Immenſe (tho' it is evident that thoſe of the <hi>French</hi> and <hi>Dutch</hi> Companies are greater) It was ſaid, That the Immunity from Cuſtoms for 21 Years, would ſink all the other Companies of <hi>Europe;</hi> not at all conſidering that there was a Draw-back in <hi>England</hi> for all <hi>Indian</hi> Goods that were not con<g ref="char:EOLhyphen"/>ſumed within the Country: And by the Arts of a few ill Men, the Parliament of <hi>England</hi> was ſurpriz'd and led into Apprehenſions, which they have found ſince to be ſo groundleſs, that for two or three Years laſt paſt, there was not the leaſt mention made of them. His Majeſty likewiſe was, by evil Councellors, perſwaded to tell the Parliament of <hi>England, That he had been ill ſerved in</hi> Scotland, <hi>&amp;c.</hi>
+            </p>
+            <pb n="7" facs="tcp:100538:4"/>
+            <p>I ſhall not tediouſly particularize all the bad Counſel that was given, nor all the foul Deal<g ref="char:EOLhyphen"/>ing, either in the Affair of <hi>Hamburgh,</hi> which was againſt the Law of Nations; In that of the <hi>Spaniſh</hi> Memorial, which was againſt common Faith in Society; In that of the Proclamations publiſhed in the <hi>Weſt-Indies,</hi> by which his Ma<g ref="char:EOLhyphen"/>jeſty's Subjects, for proſecuting their juſt Rights warranted by Act of Parliament, were treated as Enemies; in refuſing them Wood and Wa<g ref="char:EOLhyphen"/>ter, as if they had been proſcrib'd &amp; condemn'd to die, <hi>aqua &amp; igne interdicti.</hi> (I ſay) I ſhall not tediouſly inſiſt on the odious and ſhameful Circumſtances of all thoſe Particulars, becauſe they are ſufficiently known to all of you; but eſpecially becauſe it has been ſince evident what ſort of Men they are who gave the King ſuch ad<g ref="char:EOLhyphen"/>vice; Men altogether depending for Places or Penſions on the Court, or ſuch as did Journey-Work for them.</p>
+            <p>The Houſe of Commons in their laſt Seſſion, having fully ſhewn, how much ſuch Courſes were againſt the Sentiments of the <hi>Engliſh</hi> Na<g ref="char:EOLhyphen"/>tion, and reſented the bad Uſage we received, in a very generous manner; declaring withal, That any Propoſitions of an Union between the two Nations that ſhall come from us, ſhall be always welcome to them. I ſhall only make ſome Reflections on the ſad Condition of this Nation, with relation to this great Deſign, by which they hope to relieve themſelves from their great Poverty; and in which they are now
+<pb n="8" facs="tcp:100538:5"/>ſo deeply engag'd, that with it they muſt ſtand and fall (for tho' undertaken by a private Com<g ref="char:EOLhyphen"/>pany, it is become of univerſal Concernment) whoever Wounds or with-holds Nouriſhment from it, deſtroys the Vitals of the Nation.</p>
+            <p>We have for Enemies <hi>Spain,</hi> powerful in the <hi>Weſt-Indies;</hi> The <hi>French,</hi> powerful at Sea, who have often beg'd of the <hi>Spaniard</hi> the liberty to deſtroy us: We have been abandoned at Home in Word and Deed. 'Tis declared we have no Right to the Place where we have ſettled our Colony, becauſe our Settlement in that Place contradicts a certain Agreement for the Divi<g ref="char:EOLhyphen"/>ſion of the <hi>Spaniſh</hi> Monarchy, and breaks the Meaſures of a Catholick League for the Extir<g ref="char:EOLhyphen"/>pation of the <hi>Proteſtant</hi> Religion, and the Re<g ref="char:EOLhyphen"/>mainders of Liberty through the World. We are expoſed to be treated as Pirates; and tho' neither the <hi>Engliſh</hi> nor <hi>Dutch</hi> Nation be our E<g ref="char:EOLhyphen"/>nemies, yet the <hi>Engliſh</hi> and <hi>Dutch</hi> Councellors (who to the Diſhonour and Ruin of this Nation, meddle too much in our Affairs) are our Mor<g ref="char:EOLhyphen"/>tal Foes. What ſhall I ſay of <hi>Scots</hi>-Men who concur in ſuch Advice? If ever there were rea<g ref="char:EOLhyphen"/>ſon to Complain of evil Councellors, ſure it muſt be of thoſe of this Nation at this time: Yet theſe Men have the Confidence to look us boldly in the Face, tho' their impudent Con<g ref="char:EOLhyphen"/>trivances to Ruine the Colony of <hi>Caledonia,</hi> &amp; Murder ſuch numbers of them in the <hi>Weſt-In<g ref="char:EOLhyphen"/>dies,</hi> be notourly known. What ſhall I ſay of a Man who, without any other Character to
+<pb n="9" facs="tcp:100538:5"/>protect him, than ſuch as to the utmoſt aggra<g ref="char:EOLhyphen"/>vates his Crime, is at the Root of all the Miſ<g ref="char:EOLhyphen"/>chief that has, or is like to fall upon this Na<g ref="char:EOLhyphen"/>tion. Who is it, that having the right to de<g ref="char:EOLhyphen"/>ſtroy a Noxious Beaſt, has not at the ſame time the right to deſtroy ſuch an one? Theſe are the Enemies, of your Company and Colony, which you have been at great Charges and un<g ref="char:EOLhyphen"/>ſpeakable Pains to erect, eſtabliſh, and man<g ref="char:EOLhyphen"/>tain; that you might bring this Nation from Poverty and Reproach, to Honour and Wealth; our poor People from under the perpetual Ten<g ref="char:EOLhyphen"/>tations of Stealing, Lying, Cheating, nay and after all the neceſſity of Starving, for want of Bread, to that Eaſe, Plenty, and Satisfaction, which always accompany Induſtry.</p>
+            <p>Theſe are the Men, who this Day oppoſe the giving a reaſonable Tax to ſupport ſo good and Glorious a Deſign, and would divert the Money which the Nation is willing to give, to another uſe. Sure one would think, that the Pretext muſt be very ſpecious; that the uſe to which they would put it, muſt be ſome Deſign for the Good of the Nation, beyond what can occur to any Man upon firſt Thoughts: What can it be? Is it that for, this Money once given, our Liberties ſhall by excellent Laws be eſta<g ref="char:EOLhyphen"/>bliſhed upon ſuch ſolid Fundations as can never be ſhaken? Can Fertility of Soil, or the Happi<g ref="char:EOLhyphen"/>neſs of Climate be purchaſs'd and brought to us from any of the Southern Countries? One would think it ſhould be ſomething of that na<g ref="char:EOLhyphen"/>ture.
+<pb n="10" facs="tcp:100538:6"/>No! 'tis to none of all theſe Uſes that their Money is to be imploied. In what then? for at length we muſt know, ſhould the ſu<g ref="char:EOLhyphen"/>prize, of Joy be never ſo great or dangerous. 'Tis to mantain a perpetual Standing Army. What Reverſe of Fortune? From what Expecta<g ref="char:EOLhyphen"/>tions are we fallen? If, as upon many great Oc<g ref="char:EOLhyphen"/>currences in human Affairs, ſo upon this occa<g ref="char:EOLhyphen"/>ſion, a Medal were to be ſtruck, a Ship arriving in Harbour, where Peace with an Olive branch in hand, ſtands on the Shoar, might very well become one ſide; but a Fiend with a Torch in one hand and a Dagger in the other, muſt be the Reverſe. Nothing but a Picture of the high<g ref="char:EOLhyphen"/>eſt Felicity, and another of the moſt abject Mi<g ref="char:EOLhyphen"/>ſery can expreſs the Alternative. Liberty, Rich<g ref="char:EOLhyphen"/>es, Peace, Good-order, Virtue, Eaſe and Quiet, are on the one hand: Slavery, Poverty, Oppreſ<g ref="char:EOLhyphen"/>ſion, Vice, together with the Calamity, Groans and Blood of the Poor, are on the other. To which of theſe will the Nation incline? Are they to be driven like Sheep to the Slaughter? Is there any Pretext for this Standing Army, that can be named by Men of the leaſt Ingenuity? Has the bad Uſage I mentioned before, or the many Indignities put upon this Nation of late, afforded any? No! nothing has been able to provoke us: We have always, and in every thing, complied with his Majeſty beyond our Power; yet we are condemn'd to loſe our Li<g ref="char:EOLhyphen"/>berties: We are condemn'd to die, without a<g ref="char:EOLhyphen"/>ny Guilt alledged againſt us: We are to have
+<pb n="11" facs="tcp:100538:6"/>no Trade, becauſe inconſiſtent with a Standing Army: Our only Commerce is to be in Sol<g ref="char:EOLhyphen"/>diers; by whom, that we may be Gainers, we are to have a Superplus over and above what we can pay. In which ſort of Commerce, if any Na<g ref="char:EOLhyphen"/>tion was ever a Gainer, I appeal to Hiſtory.</p>
+            <p>This Nation has of late been in a Starving Condition: And I wiſh that the Blood of many Thouſands may not be required of divers, whoſe duty it was in their ſeveral Stations to have pro<g ref="char:EOLhyphen"/>vided for them: Yet during all that time, we were to Mantain an Army of idle Fellows, with<g ref="char:EOLhyphen"/>out the leaſt neceſſity, and in order to keep up 4 or 5000 of them, ſtarve 30 or 40000 inno<g ref="char:EOLhyphen"/>cent People; ſince if the Pay of that Army had been prudently imploied in buying of Corn, it would have been ſufficient to ſave the Lives of the one and the other.</p>
+            <p>You may, perhaps, ſay, That this is Refle<g ref="char:EOLhyphen"/>cting upon the Parliament who ordered the keeping up of the Forces. I anſwer, The beſt of Councils, even Parliaments themſelves, are liable to Miſtakes, occaſioned by falſe Repreſentations of Affairs by evil Councellors; but ſhould have a care of failing twice into the ſame Fault: And ſubſequent Seſſions of Parliament, ſhould cor<g ref="char:EOLhyphen"/>rect the Errors of the former.</p>
+            <p>But when all Pretexts of Fears from a Foreign Invaſion have fail'd; when no Indignities in point of Honour; no extraordinary Loſſes of vaſt Numbers of our People, and Treaſure of the Nation; no Endeavours to creat Animoſi<g ref="char:EOLhyphen"/>ties
+<pb n="12" facs="tcp:100538:7"/>between the two Nations, have been able to provoke us to give the leaſt pretence for the Standing Army; The evil Councellors have had recourſe to Force and Bribery: They have drawn the greater part of the Standing Army near and about the Town in time of Parlia<g ref="char:EOLhyphen"/>ment; by which thoſe Gentlemen who, laſt Seſſion, voted for a Standing Army, may al<g ref="char:EOLhyphen"/>ready ſee what uſe is to be made of them; and will have their Names branded with Infamy to all Poſterity, if they now vote for keeping them up any longer. They have remitted 20000 <hi>l. Sterl.</hi> into <hi>Scotland;</hi> (which they ſay Mr. <hi>Car<g ref="char:EOLhyphen"/>ſtares</hi> has done by way of <hi>Holland</hi> for the more cloſe conveyance, and that by my Lord <hi>Port<g ref="char:EOLhyphen"/>land</hi>'s means) They have procured many new Warrants for Penſions, of which probably the firſt Term only will be paid, and perhaps not that ſame; for when the Villainy is done, the Villains become uſeleſs. They have Brib'd di<g ref="char:EOLhyphen"/>verſe others with new Titles of Honour, for the moſt Infamous of all Actions; the 12 Years du<g ref="char:EOLhyphen"/>ration of the Parliament having given occaſion to the evil Councellors to know the Pulſe of e<g ref="char:EOLhyphen"/>very Man: And that no Artifice may eſcape them, they not only endeavour'd to corrupt the whole Repreſentatives of Burrows at one daſh, by a Tack of the Cuſtoms, (tho' God knows a very few reap the benefit) but have alſo at this Juncture erected little, pitiful, inconſiderable Villages into Royal-Burrows, in order to have the ſame repreſented in Parliament by Perſons ſecured to their Intereſt before-hand: And whenever the Repreſentative of any Shire or
+<pb n="13" facs="tcp:100538:7"/>Burrow dies, 'tis too well known what care is taken to have his Place immediatly ſupplied, <hi>viis &amp; modis,</hi> by ſome Court-Myrmidon, a Guard or Dragoon-Officer, or ſome ſuch. By all which means, we may in time expect to ſee the Officers of the Army (if kept on foot) muſter'd in the Senate Houſe: and then the Country freed from the Charge &amp; Trouble of ſending any other Repreſentatives to ſerve in Parliament. I ſhall not inſiſt on the ſpliting of State-Commiſ<g ref="char:EOLhyphen"/>ſions among Members of Parliament, and granting ſham Commiſſions <hi>pro tempore</hi> for the ſame Offices.</p>
+            <p>After ſo many Miſteries of Iniquity, you will be very juſtly ſurpriz'd, if I ſhall mention one Blacker than all the reſt; yet it is a thing of which I am credibly informed, and from many concurring Circumſtances, have juſt ground to believe.</p>
+            <p>The <hi>French</hi> Court who, you know, have of<g ref="char:EOLhyphen"/>ten beg'd leave of the <hi>Spaniard</hi> to deſtroy our Colony, &amp; who hate you upon many accounts, but chiefly that of your Religion, have in con<g ref="char:EOLhyphen"/>junction with ſome of our evil Councellors, contrived a more ſubtile piece of Malice againſt you, than all theſe formerly mention'd; to ac<g ref="char:EOLhyphen"/>compliſh which, they make uſe of their old Tool, the late King <hi>James,</hi> who to ſerve ſuch ends and for his own Ruin, is ſtill kept in <hi>France;</hi> they have furniſh'd him with 40000 Piſtols to ſend to his Party here, that they may be zealous in ſupporting our Colony in <hi>Darien:</hi> His Party here, God knows, is juſt as ſignifi<g ref="char:EOLhyphen"/>cant as he is there, and neither fit for anything
+<pb n="14" facs="tcp:100538:8"/>but to be made uſe of for their own and this Nations Ruin. The <hi>French,</hi> who are ſaid to advance the Money (but no doubt know how to be reimburſed) can eaſily tell our evil Coun<g ref="char:EOLhyphen"/>cellors by what way it is conveyed; and they can as eaſily Convict thoſe who receive it:</p>
+            <p>This, unleſs Men be undeceived, muſt Ruin all, and ſtop the Mouths even of the beſt, who not being able to comprehend ſuch refined Vil<g ref="char:EOLhyphen"/>lainies, will conclude, That tho many honeſt Men are engaged in the Company, yet origi<g ref="char:EOLhyphen"/>nally and at bottom it muſt needs be a <hi>Jacobite</hi> Deſign; and ſo the Court by this Artefice ob<g ref="char:EOLhyphen"/>tain that, which hitherto they have (in vain I hope) endeavoured; I mean the utter Deſtru<g ref="char:EOLhyphen"/>ction of our Colony.</p>
+            <p>'Tis become dangerous to contrive Plots in <hi>England,</hi> becauſe they begin to find them out: Such Deſigns muſt now be tranſmitted to <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> as a Country remote from publick Intel<g ref="char:EOLhyphen"/>ligence.</p>
+            <p>'Twill perhaps be ſaid, That to imploy ſo much Money among us, it would be to little purpoſe, ſince the evil Councellors are ſure of their ends by other means; and that it is ridi<g ref="char:EOLhyphen"/>culous to think, that only 20000 <hi>l. Sterl.</hi> ſhould be imploied in direct Bribery, and 40000 Pi<g ref="char:EOLhyphen"/>ſtols on a Shamm-Plot. But they who ſay this, do not conſider, that by this Means not only the Deſigns of the Court will go here without control; ſince every Man that oppoſes them, will be ſaid to have received part of K. <hi>James</hi>'s
+<pb n="15" facs="tcp:100538:8"/>Money; but alſo the People of <hi>England</hi> will be deluded into a Belief, that the <hi>Jacobite</hi> Party in <hi>Scotland</hi> is ſo formidable, that a Standing Army is neceſſary to keep them in awe; which Army would otherways be very much ſuſpected by the <hi>Engliſh,</hi> as it will in the end be infallibly made uſe of to ſuppreſs the Liberty of both Na<g ref="char:EOLhyphen"/>tions; tho perhaps before that time, conſider<g ref="char:EOLhyphen"/>ing what ſort of Men are now coming to the Helm in <hi>England,</hi> it may be imploied to reward the <hi>Presbyterians</hi> for their Services to the Court.</p>
+            <p>To conclude, tho we are remote from pub<g ref="char:EOLhyphen"/>lick Intelligence, and the <hi>Presbyterian</hi> Party ſeems ſtruck with incurable Blindneſs; yet I hope the Parliament will not wilfully ſhut their Eyes, but ſeriouſly conſider the fatal Conſe<g ref="char:EOLhyphen"/>quences of a Standing Army; and how abſo<g ref="char:EOLhyphen"/>lutely neceſſary it is to Disband at leaſt the far greater part of our Forces, even tho we had no other preſſing Occaſions for our Money at this Juncture.</p>
+            <p>Tell me, if ever there was ſuch a ſwarm of <hi>Popiſh</hi> Prieſts among you as at this time: Con<g ref="char:EOLhyphen"/>ſider the ſevere Act lately made in <hi>England</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Popery,</hi> contrary to the mild Temper of that Nation; and then you will eaſily believe they were not induced to that Severity without ſome great and extraordinary Motive, tho per<g ref="char:EOLhyphen"/>haps not fit to be mentioned: Conſider that in the Treaty of <hi>Reſwick,</hi> as well as in that of <hi>Hun<g ref="char:EOLhyphen"/>gary,</hi> the <hi>Proteſtant</hi> Religion was abandoned by thoſe who call themſelves <hi>Proteſtants:</hi> Con<g ref="char:EOLhyphen"/>ſider
+<pb n="16" facs="tcp:100538:9"/>the Perfections of <hi>France, Piedmont,</hi> the <hi>Palatinate, Hungary, Tranſilvania;</hi> and the For<g ref="char:EOLhyphen"/>ces that are now hovering about <hi>Saxony,</hi> in or<g ref="char:EOLhyphen"/>der to force that People to ſubmit to <hi>Popery:</hi> Conſider that the Apoſtate King of <hi>Poland</hi> is made a Tool to imbroil all the <hi>Proteſtant</hi> Powers of <hi>Europe</hi> (except only the <hi>Proteſtant Swiſſe</hi> Cantons, againſt whom the Emperor is now forming New Pretenſions:) Conſider that moſt of the <hi>Popiſh</hi> Princes of <hi>Germany,</hi> and ſome <hi>Proteſtants</hi> likewiſe, are arming power<g ref="char:EOLhyphen"/>fully, to aſſiſt him; for <hi>Popery</hi> is thought to be ſo neceſſary to keep People in due Obedience, that few Princes think themſelves ſafe as long as their Subjects are of any other Religion: And there is but too juſt ground to ſuſpect the Re<g ref="char:EOLhyphen"/>ligion of diverſe great Princes in <hi>Europe,</hi> who are called <hi>Proteſtants.</hi> Conſider all theſe things, and act as you will Anſwer to God in the Great Day, for the Truſt repoſed in you. And ſo I conclude with that Admonition and Advice given by the Wiſeſt of Men:</p>
+            <epigraph>
+               <q>
+                  <hi>If thou Faint in the day of Adverſity, thy Strength is ſmall. If thou forbear to deliver them that are drawn unto Death, and thoſe that are ready to be ſlain. If thou ſayeſt, Behold, we knew it not; doth not he that pondereth the Heart conſider it? and he that keepeth the Soul, doth not he know it? and ſhall not he render to every Man according to his works?</hi> 
+                  <bibl>Prov. 24.10, 11, 12.</bibl>
+               </q>
+               <q>
+                  <p>
+                     <hi>Take away the Wicked from before the King, and his Throne ſhall be eſtabliſhed in Righteouſneſs.</hi> 
+                     <bibl>Prov. 25.5.</bibl>
+                  </p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100538:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
